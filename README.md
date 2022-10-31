@@ -1,1 +1,18 @@
 # Student-Management-System
+
+## Open phpMyAmdmin and create db and tabels
+
+# Database Name :
+    stm
+    
+# Tables Names :
+    roll_no INT         100     PRIMARY_KEY
+    name    VARCHAR     100
+    email   VARCHAR     100
+    gender  VARCHAR     100
+    contact VARCHAR     100
+    dob     VARCHAR     100
+    address VARCHAR     100
+
+## Refrence Link :
+    https://www.youtube.com/watch?v=tUc6FMPSZDg&list=PL4P8sY6zvjk5YsiQCcWfSXc_J3pVCr40K&index=3
